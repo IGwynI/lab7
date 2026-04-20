@@ -197,7 +197,7 @@ count == 0 -> «никто не посмотрел»
 
 ### Тестирование
 
-<img width="429" height="284" alt="image" src="https://github.com/user-attachments/assets/6a7499d6-62ef-4bec-8cec-e66b3a7c52e0" />
+<img width="351" height="222" alt="image" src="https://github.com/user-attachments/assets/4a43919f-cbe7-4759-9792-90f0096be670" />
 
 # Задание 9
 
