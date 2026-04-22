@@ -148,7 +148,7 @@
 
 ### Тестирование
 
-<img width="418" height="227" alt="image" src="https://github.com/user-attachments/assets/bbc8747b-50e2-4e64-88ce-48d2e00301cf" />
+<img width="374" height="259" alt="Снимок экрана 2026-04-22 105845" src="https://github.com/user-attachments/assets/6f7af2ce-5169-4474-be81-f7432064b37d" />
 
 # Задание 7
 
@@ -170,8 +170,7 @@
 
 ### Тестирование
 
-<img width="824" height="143" alt="image" src="https://github.com/user-attachments/assets/1d3603e6-08ca-4dab-b22e-b5304ad558b4" />
-<img width="855" height="186" alt="image" src="https://github.com/user-attachments/assets/afccc21f-95b6-4765-aa86-9b0ecc9bb7ab" />
+<img width="678" height="262" alt="Снимок экрана 2026-04-22 105914" src="https://github.com/user-attachments/assets/20a9a466-6aa2-4642-9b5e-d13dd3c4f081" />
 
 # Задание 8
 
@@ -197,7 +196,7 @@ count == 0 -> «никто не посмотрел»
 
 ### Тестирование
 
-<img width="351" height="222" alt="image" src="https://github.com/user-attachments/assets/4a43919f-cbe7-4759-9792-90f0096be670" />
+<img width="423" height="195" alt="Снимок экрана 2026-04-22 103640" src="https://github.com/user-attachments/assets/879eadeb-70cc-44ba-b62d-f81ed55f9991" />
 
 # Задание 9
 
@@ -211,7 +210,9 @@ count == 0 -> «никто не посмотрел»
 ### Алгоритм решения
 
 Создать множество звонких согласных: б, в, г, д, ж, з, й, л, м, н, р; 
-Создать словарь Dictionary<char, int> для подсчёта количества слов, в которых встречается каждая буква; 
+Создать два пустых множества:
+seenOnce – для букв, встретившихся ровно один раз;
+seenMultiple – для букв, встретившихся более одного раза;
 Открыть файл и читать построчно: 
 Разбить строку на слова; 
 Для каждого слова: 
